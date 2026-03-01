@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "最強ガール 竜ヶ崎ノクスver.",
+  "base_artist": "JELEE",
+  "createdAt": "2026-03-01T04:52:31.510464Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最強ガール 竜ヶ崎ノクスver.",
+      "artist": "JELEE",
+      "has_synced": false,
+      "path": "select/pl_01_最強ガール_竜ヶ崎ノクスver._JELEE.txt"
+    }
+  ]
+}
